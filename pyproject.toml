@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bmpose-hybrid"
+version = "0.1.0"
+description = "Hybrid MediaPipe + VideoPose3D pose estimation pipeline"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "mediapipe>=0.10.32",
+    "numpy>=2.0",
+    "opencv-python>=4.10",
+    "torch>=2.7",
+]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
