@@ -48,7 +48,7 @@ python scripts/download_models.py
 
     OR 
 
-pretrained weights are avialable [HERE](https://drive.google.com/drive/folders/1pvnpDTCp8T7rHEojsqrg04XrGocf2gAK)
+ pretrained weights are avialable [HERE](https://drive.google.com/drive/folders/1pvnpDTCp8T7rHEojsqrg04XrGocf2gAK)
 
 
 
