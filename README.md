@@ -47,7 +47,7 @@ python scripts/download_models.py
 - `data/models/pretrained_h36m_detectron_coco.bin`
 
    OR 
-
+ 
    pretrained weights are avialable [HERE](https://drive.google.com/drive/folders/1pvnpDTCp8T7rHEojsqrg04XrGocf2gAK)
 
 
