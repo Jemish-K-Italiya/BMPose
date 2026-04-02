@@ -43,15 +43,16 @@ python -m pip install -e .
 ```powershell
 python scripts/download_models.py
 ```
+- `data/models/pose_landmarker_heavy.task`
+- `data/models/pretrained_h36m_detectron_coco.bin`
 
-This downloads:
+    OR 
 
 pretrained weights are avialable on :
 
 Download pretrained model from [HERE](https://drive.google.com/drive/folders/1pvnpDTCp8T7rHEojsqrg04XrGocf2gAK)
 
-- `data/models/pose_landmarker_heavy.task`
-- `data/models/pretrained_h36m_detectron_coco.bin`
+
 
 ## Run The Live Demo
 
