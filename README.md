@@ -48,7 +48,7 @@ This downloads:
 
 pretrained weights are avialable on :
 
-Download pretrained model from [HERE](https://drive.google.com/drive/folders/16VrXr_58-2gOhiYDkCKiGsTo5xAbMhVT)
+Download pretrained model from [HERE](https://drive.google.com/drive/folders/1pvnpDTCp8T7rHEojsqrg04XrGocf2gAK)
 
 - `data/models/pose_landmarker_heavy.task`
 - `data/models/pretrained_h36m_detectron_coco.bin`
