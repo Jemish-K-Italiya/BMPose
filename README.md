@@ -45,7 +45,9 @@ python scripts/download_models.py
 ```
 
 This downloads:
-- `https://drive.google.com/drive/folders/16VrXr_58-2gOhiYDkCKiGsTo5xAbMhVT`
+
+pretrained weights are avialable on : 
+.(https://drive.google.com/drive/folders/16VrXr_58-2gOhiYDkCKiGsTo5xAbMhVT).
 -- `data/models/pose_landmarker_heavy.task`
 -- `data/models/pretrained_h36m_detectron_coco.bin`
 
